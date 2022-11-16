@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Aleks\source\repos\PAL_Week9_FileIO\StructuresFileIO\Source.c(138,45): warning C4020: 'strcpy': too many actual parameters
+C:\Users\Aleks\source\repos\PAL_Week9_FileIO\StructuresFileIO\Source.c(142,43): warning C4020: 'strcpy': too many actual parameters
+C:\Users\Aleks\source\repos\PAL_Week9_FileIO\StructuresFileIO\Source.c(146,45): warning C4020: 'strcpy': too many actual parameters
+  StructuresFileIO.vcxproj -> C:\Users\Aleks\source\repos\PAL_Week9_FileIO\x64\Debug\StructuresFileIO.exe

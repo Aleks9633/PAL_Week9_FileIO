@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Aleks\source\repos\PAL_Week9_FileIO\LoadFile\Source.c(34,12): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Aleks\source\repos\PAL_Week9_FileIO\LoadFile\Source.c(35,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+  LoadFile.vcxproj -> C:\Users\Aleks\source\repos\PAL_Week9_FileIO\x64\Debug\LoadFile.exe
